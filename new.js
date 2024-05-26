@@ -18,5 +18,5 @@ class Movies{
 const movieI = new Movies();
 const pgMovies = movieI.getPG(myMovie); 
 console.log(pgMovies);
-//console.log(myMovie);
+console.log(myMovie);
   
